@@ -1,6 +1,6 @@
 # Flex Bison Calculator-Compiler
-Creating a calculator using Flex and Bison for university compiler project.
-kjj
+Creating a calculator using Flex and Bison for university compiler project.\n
+ghhg
 
 # CFG
 The equivalent CFG for the grammer used in this project is as follows :
