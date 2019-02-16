@@ -1,7 +1,7 @@
 # Flex Bison Calculator-Compiler
 Creating a calculator using Flex and Bison for university compiler project.  
 • Supports the following math functions :  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add - Subtract - Divide - Multiply - Power - Assignment - Sin - Cos - Sqrt - Abs - Exp - Sinh - Cosh
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add - Subtract - Divide - Multiply - Power - Assignment - Sin - Cos - Sqrt - Abs - Exp - Sinh - Cosh
 
 # CFG
 The equivalent CFG for the grammer used in this project is as follows :
