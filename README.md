@@ -5,7 +5,7 @@ Creating a calculator using Flex and Bison for university compiler project.
 • Can recognize both Integer and Float values.  
 • Can Assign values to identifires using "=" sign.  
 • Prints out a list of used Tokens in each command.  
-• Prints out the final output of the enterd math function.
+• Prints out the final output of the enterd math function as a Double value.
 
 # CFG
 The equivalent CFG for the grammer used in this project is as follows :
