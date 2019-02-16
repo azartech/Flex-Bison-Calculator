@@ -37,3 +37,11 @@ factor → cosh(expr){𝐸𝑚𝑖𝑡("𝑐𝑜𝑠h ")}
 ```
 
 # Usage
+To use the calculator, clone the project. Open command prompt and ```cd``` to the directory. Then use the following commands.  
+```
+bison -d -y calc.y
+flex calc.lex
+gcc -c y.tab.h y.tab.c lex.yy.c
+gcc y.tab.o lex.yy.o -o $@ -lm
+```  
+A Unix executable file named "-lm" will be generated. open the file and enjoy!
