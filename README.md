@@ -37,7 +37,7 @@ factor → cosh(expr){𝐸𝑚𝑖𝑡("𝑐𝑜𝑠h ")}
 ```
 
 # Usage
-To use the calculator, clone the project. Open command prompt and ```cd``` to the directory. Then use the following commands.  
+To use the calculator, clone the project. Open command prompt and ```cd``` to the directory. Then use the following commands. If there were warnings, ignore them.  
 ```
 bison -d -y calc.y
 flex calc.lex
