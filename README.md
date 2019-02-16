@@ -3,8 +3,7 @@ Creating a calculator using Flex and Bison for university compiler project
 
 # CFG
 The equivalent CFG for the grammer used in this project is as follows :
-
-stmts stmts stmt expr expr expr term term term unary unary pow pow factor factor factor factor factor factor factor factor factor factor factor
+'''
 stmts → stmt stmts
 stmts → ε
 stmt → 𝑖𝑑 {𝐸𝑚𝑖𝑡(lvalue + 𝑖𝑑. 𝑙𝑒𝑥)} = expr{𝐸𝑚𝑖𝑡("𝑎𝑠𝑠𝑖𝑔𝑛")};
@@ -29,3 +28,4 @@ factor → abs(expr){𝐸𝑚𝑖𝑡("𝑎𝑏𝑠 " )}
 factor → exp(expr){𝐸𝑚𝑖𝑡("𝑒𝑥𝑝 " )}
 factor → sinh(expr){𝐸𝑚𝑖𝑡("𝑠𝑖𝑛h " )}
 factor → cosh(expr){𝐸𝑚𝑖𝑡("𝑐𝑜𝑠h ")}
+'''
