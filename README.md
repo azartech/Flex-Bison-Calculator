@@ -35,3 +35,5 @@ factor → exp(expr){𝐸𝑚𝑖𝑡("𝑒𝑥𝑝 " )}
 factor → sinh(expr){𝐸𝑚𝑖𝑡("𝑠𝑖𝑛h " )}
 factor → cosh(expr){𝐸𝑚𝑖𝑡("𝑐𝑜𝑠h ")}
 ```
+
+# Usage
