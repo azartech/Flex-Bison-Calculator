@@ -1,5 +1,5 @@
 # Flex Bison Calculator-Compiler
-Creating a calculator using Flex and Bison for university compiler project.\n
+Creating a calculator using Flex and Bison for university compiler project.  
 ghhg
 
 # CFG
