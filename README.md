@@ -3,6 +3,7 @@ Creating a calculator using Flex and Bison for university compiler project.
 • Supports the following math functions :  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add - Subtract - Divide - Multiply - Power - Assignment - Sin - Cos - Sqrt - Abs - Exp - Sinh - Cosh  
 • Can recognize both Integer and Float values.  
+• Can recognize scientific values as Float (e.g. 314e-2 = 3.14).  
 • Can Assign values to identifires using "=" sign.  
 • Prints out a list of used Tokens in each command.  
 • Prints out the final output of the enterd math function as a Double value.
