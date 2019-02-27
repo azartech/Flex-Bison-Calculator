@@ -1,4 +1,4 @@
-# Flex Bison Calculator-Compiler
+# Flex Bison Calculator
 • Supports the following math functions :  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add - Subtract - Divide - Multiply - Power - Assignment - Sin - Cos - Sqrt - Abs - Exp - Sinh - Cosh  
 • Can recognize both Integer and Float values.  
